@@ -197,7 +197,7 @@ software:
 
     # Windows custom packages
     # …
-    - path: ../platforms/windows/software/cloudfare_warp.yml
+    - path: ../platforms/windows/software/cloudflare_warp.yml
       self_service: false
 
     # Linux custom packages
