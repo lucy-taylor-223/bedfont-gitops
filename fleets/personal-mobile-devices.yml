@@ -111,6 +111,10 @@ software:
     #   self_service: true
     #   setup_experience: true
 
+  fleet_maintained_apps:
+    - slug: bruno/darwin
+      self_service: true
+
 labels:
   - name: C-Suite
     description: Hosts belonging to members of the C-suite
